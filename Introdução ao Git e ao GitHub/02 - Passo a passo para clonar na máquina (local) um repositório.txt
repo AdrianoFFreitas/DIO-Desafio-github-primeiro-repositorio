@@ -1,0 +1,8 @@
+Passo a passo para clonar na máquina (local) um repositório
+
+1) Clicar no botão Code, escolher o tipo de arquivo (HTTPS, SSH ou GitHub CLI) e copiar o link_repositorio;
+2) Criar um diretório para receber o repositório;
+3) Abrir o terminal ou Git Bash;
+4) Executar o comando "git clone link_repositorio";
+   Ex.: "git clone https://github.com/AdrianoFFreitas/DIO-Desafio-github-primeiro-repositorio.git"
+5) Foi criado um diretório com o repositório dentro do diretório criado.

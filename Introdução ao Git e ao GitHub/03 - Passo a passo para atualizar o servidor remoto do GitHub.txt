@@ -1,0 +1,19 @@
+Passo a passo para atualizar o servidor remoto do GitHub para atualizar o controle de versão
+
+1) Executar o comando "git status" --> Verifica se existe alguma modificação no diretório local do repositório e informa ao usuario;
+2) Executar o comando "git add ." ou "git add -A" --> Adiciona todos os arquivos ao ao controle de versão local;
+3) Executar o comando "git commit -m "Comentário do commit"";
+Ex.: git commit -m "Inclusão das anotações do curso de Git/GitHub"
+4) Executar o comando "git push origin main" --> Comando envia todos os commits que existem localmente para a nuvem (servidor remoto).
+
+
+
+
+
+
+
+
+
+
+
+ 

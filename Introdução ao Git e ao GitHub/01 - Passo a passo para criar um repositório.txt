@@ -1,0 +1,10 @@
+Passo a passo para criar um repositório
+
+1) Criar um novo repositório na pagina do GitHub logado;
+2) Dar um nome para o repositório;
+3) Dar um descrição para o repositório;
+4) Escolher público ou privado;
+5) Opcionalmente adicionar um README (página inicial do repositório);
+6) Opcionalmente adicionar um .gitignore (arquivo que se pode colocar quando se esta trabalhando em um projeto em uma determinada tecnologia. Ele faz com que o git ignore alguns arquivos de build, os quais não são exenciais/necessários para o versionamento);
+7) Opcionalmente adicionar uma licença (relacionada ao código que esta sendo desenvolvido).
+8) Clicar em "Create repository".
