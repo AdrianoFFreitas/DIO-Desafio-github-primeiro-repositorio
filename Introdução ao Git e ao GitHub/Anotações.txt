@@ -1,0 +1,9 @@
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Link para download do Git: https://www.git-scm.com/downloads
+
+Link para primeiros passos no GitHub: https://docs.github.com/pt/get-started/quickstart/hello-world
+
+Link para referência rápida à sintaxe Markdown: https://www.markdownguide.org/cheat-sheet/
+
+
